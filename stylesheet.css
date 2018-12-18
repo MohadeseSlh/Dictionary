@@ -112,8 +112,10 @@ input{
 .row-txt{
     margin-top: 5vh;
     height: 4vh;
+    display: none;
 }
 .row-txt2{
     margin-top: 10vh;
+    display: none;
 }
 
